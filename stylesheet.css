@@ -1,0 +1,29 @@
+a{
+    text-decoration: none;
+    font-size: 0.8em;}
+a:visited{
+    color: #3c3191;}
+body{ 
+    background: #d2d2c1 url('imagens/fundo.png') repeat fixed;
+    font-family: "Lucinda Sans Unicode", "Lucinda Grande", sans-serif;
+    }                                        
+.frame{border: #d3d3be solid 10px;}
+.header{
+    color: #3c3191;
+    text-transform: uppercase;
+    text-align: left;
+    border: 3px hidden;}
+.page{
+    background: #fcfbec;
+    border: #fcfbec solid;
+    border-width: 2px 10px;}
+.subtitle{
+    color: #888878;}
+#content{
+    float: left;
+    width: 900px;
+    background: #d3d3be repeat-y scroll left top;}
+#legal{
+    text-align: center;}
+
+
