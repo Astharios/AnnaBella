@@ -1,8 +1,9 @@
 a{
     text-decoration: none;
-    font-size: 0.8em;}
+    font-size: 0.8em;
+    color: #a10fa1:}
 a:visited{
-    color: #3c3191;}
+    color: #a10fa1;}
 body{ 
     background: #d2d2c1 url('imagens/fundo.png') repeat fixed;
     font-family: "Lucinda Sans Unicode", "Lucinda Grande", sans-serif;
